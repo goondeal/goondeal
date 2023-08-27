@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmad Salamouny</h1>
-<h3 align="center">A passionate AI Engineer from Egypt.</h3>
+<h3 align="center">A passionate Software Engineer from Egypt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goondeal&label=Profile%20views&color=0e75b6&style=flat" alt="goondeal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmad__salamony" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad__salamony?logo=twitter&style=for-the-badge" alt="ahmad__salamony" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Backend_Development**
 
 - 📫 How to reach me **ahmed.salamony497@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmad__salamony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad__salamony" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/salamouny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salamouny" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/goondeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="goondeal" height="30" width="40" /></a>
 </p>
